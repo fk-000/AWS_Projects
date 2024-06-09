@@ -1,1 +1,1 @@
-Project #1: Host a website on AWS 
+Project : Host a website on AWS 
