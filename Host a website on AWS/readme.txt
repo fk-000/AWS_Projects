@@ -1,3 +1,3 @@
-Project : Host a website on AWS
+**Project : Host a website on AWS
 
-Step #1: Design Your Website
+Step #1: Design Your Website**
